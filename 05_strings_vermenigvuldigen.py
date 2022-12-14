@@ -13,3 +13,9 @@ de vermenigvuldiging moet steeds 1 hoger.
 ####
 
 '''
+teken = "#"
+print(teken * 1)
+print(teken * 2)
+print(teken * 3)
+print(teken * 4)
+print(teken * 5)
