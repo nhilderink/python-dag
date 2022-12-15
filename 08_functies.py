@@ -5,3 +5,4 @@ def greeter(msg):
 greeter("Hello")
 greeter("Hola")
 greeter("Bonjour")
+greeter("Hoi!")
